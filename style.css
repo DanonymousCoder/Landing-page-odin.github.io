@@ -1,5 +1,4 @@
 body{
-    background-color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .hero{
@@ -101,4 +100,88 @@ button {
     margin-right: 13px;
     margin-left: 13px;
 }
-
+.quote {
+    background-color: #E5E7EB;
+    text-align: center;
+    padding: 15px;
+    margin-top: 50px;
+    height: 400px;
+    align-items: center;
+}
+.txt{
+    margin-top: 70px;
+    margin-right: 150px;
+    margin-left: 140px;
+    padding-right: 50px;
+    width: 800px;
+    height: 300px;
+    padding: 30px;
+    text-align: center;
+}
+.txt-1{
+    font-size: 30px;
+    font-style: italic;
+    text-align: left;
+    margin-right: 20px;
+}
+.txt-2{
+    font-size: 25px;
+    font-weight: bold;
+    float: right;
+}
+.call{
+    background-color: #3882F6;
+    margin: 90px;
+    margin-top: 120px;
+    border: 0px solid #3882F6;
+    border-radius: 5px;
+    align-items: center;
+    margin-left: 120px;
+    padding: 10px;
+}
+.group{
+    margin-top: 30px;
+    margin-left: 70px ;
+    display: flex;
+    margin-bottom: 20px;
+}
+.call-txt{
+    color: white;
+}
+.call-1 {
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 25px;
+}
+.call-2 {
+    color: #E5E7EB;
+    font-weight: normal;
+    font-size: 15px;
+}
+.end{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    align-items: center;
+    margin-left: 300px;
+}
+.button2 {
+    background-color: #3882F6;
+    border: 3px solid white;
+    width: 290;
+    height: 25px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}
+footer{
+    background-color: #1F2937;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
+.footer {
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+    color: #F9FAF8;
+}
